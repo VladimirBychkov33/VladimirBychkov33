@@ -21,7 +21,7 @@
 
 ### Тестовая документация
 
-- [Checklists]
+- [Checklists](https://github.com/VladimirBychkov33/checklists)
 - [Test-Suites and Test-Cases]
 - [Bug-Reports]
 - [SQL Queries]
