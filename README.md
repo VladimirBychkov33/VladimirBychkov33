@@ -21,8 +21,9 @@
 
 ### Тестовая документация
 
-- [Checklists](https://github.com/VladimirBychkov33/checklists)
+- [Чек-листы](https://github.com/VladimirBychkov33/checklists)
 - [Test-Suites and Test-Cases]
-- [Bug-Reports]
+- [Баг-репорты](https://github.com/VladimirBychkov33/bugreports)
+- [Тестирование API](https://github.com/VladimirBychkov33/postman)
+- [Сниффинг трафика](https://github.com/VladimirBychkov33/charles)
 - [SQL Queries]
-- [Postman Collections]
