@@ -27,4 +27,5 @@
 - [Тестирование API](https://github.com/VladimirBychkov33/postman)
 - [Сниффинг трафика](https://github.com/VladimirBychkov33/charles)
 <!-- - [SQL Queries] -->
-- ["Java" & "Python" практические задачи](https://github.com/VladimirBychkov33/charles)
+- ["Java" практические задачи](https://github.com/VladimirBychkov33/Java_HomeWork)
+- ["Python" практические задачи](https://github.com/VladimirBychkov33/Python_Seminars)
