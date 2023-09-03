@@ -26,4 +26,5 @@
 - [Баг-репорты](https://github.com/VladimirBychkov33/bugreports)
 - [Тестирование API](https://github.com/VladimirBychkov33/postman)
 - [Сниффинг трафика](https://github.com/VladimirBychkov33/charles)
-- [SQL Queries]
+<!-- - [SQL Queries] -->
+- ["Java" & "Python" практические задачи](https://github.com/VladimirBychkov33/charles)
