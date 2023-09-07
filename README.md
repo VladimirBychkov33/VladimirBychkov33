@@ -1,8 +1,9 @@
 [![Header](https://github.com/VladimirBychkov33/VladimirBychkov33/blob/main/assets/collage.png)](https://github.com/VladimirBychkov33/VladimirBychkov33)
 
-## Я начинающий QA Engineer. 
+## Начинающий QA Engineer 
  
-### Моё резюме
+### [Моё резюме](https://drive.google.com/file/d/1_Hz85U6vSNADScuJiocrR8dZyROc5VY3/view?usp=drive_link)
+
 
 
 ### Hard Skills
