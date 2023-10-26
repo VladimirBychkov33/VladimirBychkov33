@@ -14,7 +14,7 @@
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/DevTools-090909?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=MySQL&logoColor=2674f2)
-![Header](https://img.shields.io/badge/Android Studio-090909?style=for-the-badge&logo=Android Studio&logoColor=2674f2)
+![Header](https://img.shields.io/badge/AndroidStudio-090909?style=for-the-badge&logo=AndroidStudio&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/ADB-090909?style=for-the-badge&logo=ADB&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/DBeaver-090909?style=for-the-badge&logo=DBeaver&logoColor=2674f2)
 ![Header](https://img.shields.io/badge/VSC-090909?style=for-the-badge&logo=VisualStudioCode&logoColor=007ACC)
